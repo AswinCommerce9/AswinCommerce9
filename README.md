@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AswinCommerce9
-- 👀 I’m interested in developing an e-commerce website 
-- 🌱 I’m currently learning Magento and react
+- 👀 I’m a developer who develops e-commerce website 
+- 🌱 I’m currently Experienced in Magento and react
 - 📫 How to reach me 📧 aswinkrishna66@gmail,com ,📱 +91 6381061732
   
 
